@@ -58,3 +58,30 @@
     //     console.log("Grade D")
     //
     
+
+
+    const marks = 90;
+
+    switch(marks){
+        case 90:
+            console.log("Grade A")
+            break;
+        case 70:
+            console.log("Grade B")
+            break;
+        case 70:
+            console.log("Grade C")
+            break;
+        case 60:
+          console.log("Grade D")
+            break;
+            case 50:
+            console.log("Grade E")
+            break
+        default:
+            console.log("Grade F")
+        
+            
+    }
+
+    
